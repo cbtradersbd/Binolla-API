@@ -31,11 +31,16 @@
 ---
 
 ## 🌟 System Overview & Highlights
-**Binolla 24/7 REST API, WebSocket Protocol Wrapper & Auto-Trading Bridge** is a state-of-the-art, enterprise-grade Python FastAPI REST and WebSocket protocol wrapper engineered specifically for **Binolla**. Built for algorithmic traders, prop trading firms, signal providers, and quantitative developers requiring 24/7 ultra-low latency execution and non-repainting market data streams.
+**Binolla 24/7 REST API, WebSocket Protocol Wrapper & Auto-Trading Bridge** is a state-of-the-art, enterprise-grade Python FastAPI Proprietary Reverse-Engineered Binary Protocol & High-Frequency Ingestion Node engineered specifically for **Binolla**. Built for algorithmic traders, prop trading firms, signal providers, and quantitative developers requiring 24/7 ultra-low latency execution and non-repainting market data streams.
 
 - ⚡ **Ultra-Fast Stream**: Real-time Binolla price and candlestick streaming.
 - 📈 **M1/M5 Historical Database**: Persistent candle records.
 - 👥 **Multi-Account Copy Trading**: Zero-latency trade mirroring.
+
+---
+
+> ⚠️ **Institutional Architecture Notice**:  
+> Broker internal streams utilize dynamic binary Protobuf encodings, non-standard TLS session fingerprints, and strict anti-scraping safeguards. Direct client connections are rejected or throttled. Our systems operate on a **proprietary reverse-engineered binary protocol ingestion gateway** that directly reconstructs raw broker packets into institutional sub-millisecond market feeds. For enterprise license access, private endpoints, or custom bot deployment: contact **[@YouKnowWho_am](https://t.me/YouKnowWho_am)** on Telegram.
 
 ---
 
@@ -279,7 +284,7 @@ Looking for the 100% full, unlocked source code with complete ownership, persona
 
 ---
 
-## 🌐 CB Traders BD Ecosystem — Explore All Broker APIs & Bots
+## 🌐 CB Traders BD Ecosystem : Explore All Broker APIs & Bots
 
 Cross-platform algorithmic trading tools, real-time WebSocket feeds, and AI signal engines:
 
@@ -324,3 +329,4 @@ The copy trading bridge mirrors trades from master accounts to target accounts w
 ## ⭐ Star This Project
 If this toolkit assisted your algorithmic trading research or bot deployment, please give it a **Star on GitHub** to support active open-source development and help other traders find it!
 <!-- last_verified_sync: 1793075815 -->
+<!-- last_verified_sync: 1793077329 -->
